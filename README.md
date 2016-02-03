@@ -10,6 +10,7 @@ Creadting a new branch is quick.
 ---
 __I've created a branch for practice;__
 
----
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
+
 
