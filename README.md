@@ -13,4 +13,6 @@ __I've created a branch for practice;__
 
 Creating a new branch is quick AND simple.
 
+---
+使用禁用fast forward 模式练习分支
 
